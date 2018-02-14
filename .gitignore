@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+flow_cred.json
+.flow_cred.json.backup
